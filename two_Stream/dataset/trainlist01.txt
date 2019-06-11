@@ -1,0 +1,12 @@
+good_1.avi 1
+good_2.avi 1
+good_3.avi 1
+good_4.avi 1
+good_5.avi 1
+good_6.avi 1
+good_7.avi 1
+bad_1.avi 2
+bad_2.avi 2
+bad_3.avi 2
+bad_4.avi 2
+bad_5.avi 2
